@@ -11,12 +11,12 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ...
+* ¿Las plagas minimizan la producción de los principales cultivos en la zona Nordeste de la Republica Dominicana?
 
-* ...
+* ¿El arroz es el principal cultivo de producción de Rep. Dom.?
 
-* ...
+* ¿Durante el 2015, es donde Rep. Donde experimenta el mayor porcentaje producción de Solanaceas?
 
-* ...
+* ¿El psilido Diaphorina citri es el principal vector de la bacteria Candidatus Liberibacter, la mayor pérdida está representada en la región este de Rep. Dom. ?
 
-* ...
+* 
